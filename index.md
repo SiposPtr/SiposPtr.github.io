@@ -1,4 +1,6 @@
-<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<head>
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
 ## Üdvözöllek
 Az oldal fejlesztés alatt áll!
 
