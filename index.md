@@ -33,11 +33,14 @@ I don't know what to do with this yet but maybe after September i will upload th
 
 
 <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link" target="hidden_iframe" onsubmit="submitted=true;">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
   First name:<br>
   <input type="text" name="entry.810989529" id="entry.810989529"><br>
   Last name:<br>
   <input type="text" name="entry.463380756" id="entry.463380756">
   <input type="submit" value="Submit">
+  </script>
 </form>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
