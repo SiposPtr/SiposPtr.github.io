@@ -11,6 +11,7 @@ I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to 
 Which means soon(in this case:3-4-5years) i could get the black belt in both styles.
 Personally I think i will only do the black belt in the Goju-kai style.
 But it's the future. :)
+:poop:
 
 ### How did this site born?.
 I was **really** bored at the summer of 2018 so I searched on the internet to do some cool stuff.
