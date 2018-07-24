@@ -2,7 +2,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   </head>
 ## Welcome
-The site is under developement.
+The site is under development.
 I am trying to make it look like a normal site
 ###
 
@@ -25,7 +25,8 @@ Syntax highlighted code block
 I am an 18 years old hungarian boy who loves IT a programming.
 
 ### About this site
-I was **really** bored at the summer of 2018 so i decided to make something useful. I always do that but then i delete the project and forget about it. Now it wont be like this
+I was **really** bored at the summer of 2018 so i decided to make something useful. I always do that but then i delete the project and forget about it. I thought that this summer should be unique.
+I don't know what to do with this yet but maybe after September i will upload things.
 
 
 ### Support or Contact
