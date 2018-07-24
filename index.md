@@ -3,7 +3,7 @@
   </head>
 ## Üdvözöllek
 Az oldal fejlesztés alatt áll!
-HALO"GIT
+ezleszajo
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
