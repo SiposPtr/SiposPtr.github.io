@@ -24,6 +24,8 @@ I don't know what to do with this yet but maybe after September I will upload th
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link"> Click me if you want to help me with your opinion :D  </a>
 
 ez alatt van anavbar kódja
+<link rel="stylesheet" href="https://cdn.rawgit.com/balzss/luxbar/ae5835e2/build/luxbar.min.css">
+
 <div class="luxbar luxbar-static">
     <input type="checkbox" id="luxbar-checkbox" class="luxbar-checkbox">
     <div class="luxbar-menu luxbar-menu-right luxbar-menu-dark">
