@@ -3,8 +3,8 @@ The site is under development.
 I am trying to make it look like a normal site.
 
 ### About me
-I am an 18 years old Hungarian boy who loves IT a programming.
-My passion is karate. I started it about 12 years ago.
+I am an 18 years old Hungarian boy who loves IT a programming. :computer:
+My passion is karate. I started it about 12 years ago. 
 I did Shotokan karate style for several years and i reached the 3rd kyu which means i have a brown belt.
 I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to get the brown belt. I had to do every single exam from the white belt on the same day.
 Which means soon(in this case:3-4-5years) i could get the black belt in both styles.
