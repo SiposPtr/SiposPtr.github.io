@@ -4,7 +4,7 @@ I am trying to make it look like a normal site.
 
 ### About me
 I am an 18 years old Hungarian boy who loves IT a programming. :computer:
-My passion is karate. I started it about 12 years ago. 
+My passion is karate. I started it about 12 years ago.
 I did Shotokan karate style for several years and i reached the 3rd kyu which means i have a brown belt.
 I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to get the brown belt. I had to do every single exam from the white belt on the same day.
 Which means soon(in this case:3-4-5years) i could get the black belt in both styles.
@@ -22,3 +22,24 @@ I don't know what to do with this yet but maybe after September I will upload th
 ### Support or Contact
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link"> Click me if you want to help me with your opinion :D  </a>
+
+<div class="luxbar luxbar-static">
+    <input type="checkbox" id="luxbar-checkbox" class="luxbar-checkbox">
+    <div class="luxbar-menu luxbar-menu-right luxbar-menu-dark">
+        <ul class="luxbar-navigation">
+            <li class="luxbar-header">
+                <a class="luxbar-brand" href="#">Brand</a>
+                <label class="luxbar-hamburger luxbar-hamburger-doublespin"
+                        for="luxbar-checkbox"> <span></span> </label>
+            </li>
+            <li class="luxbar-item active"><a href="#">Home</a></li>
+            <li class="luxbar-item dropdown"><a href="#">Users</a>
+                <ul>
+                    <li class="luxbar-item" ><a href="#">Max</a></li>
+                    <li class="luxbar-item" ><a href="#">Edgar</a></li>
+                    <li class="luxbar-item" ><a href="#">John</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+</div>
