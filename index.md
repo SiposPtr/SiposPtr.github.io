@@ -30,5 +30,23 @@ I don't know what to do with this yet but maybe after September i will upload th
 
 
 ### Support or Contact
-I'm going to make a support email just for the fun and for if someone reads this can send me their own thoughts about this.
-Mostly this is just a reminder for me to make the email stuff.
+I made a contact email just for fun mostly. If **you** have some idea or advice about my site you can write to this email address.
+
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=pp_url&entry.49525673=P%C3%A9ter&entry.1182379486=Sipos" target="hidden_iframe" onsubmit="submitted=true;">
+  First name:<br>
+  <input type="text" name="entry.810989529" id="entry.810989529"><br>
+  Last name:<br>
+  <input type="text" name="entry.463380756" id="entry.463380756">
+  <input type="submit" value="Submit">
+</form>
+
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+<script src="assets/js/jquery.min.js"></script>
+<script type="text/javascript">var submitted=false;</script>
+<script type="text/javascript">
+$('#gform').on('submit', function(e) {
+  $('#gform *').fadeOut(2000);
+  $('#gform').prepend('Your submission has been processed...');
+  });
+</script>
