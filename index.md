@@ -32,7 +32,24 @@ I don't know what to do with this yet but maybe after September i will upload th
 ### Support or Contact
 
 
-<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=pp_url&entry.49525673=P%C3%A9ter&entry.1182379486=Sipos" target="hidden_iframe" onsubmit="submitted=true;">
+<form>
+  First name:<br>
+  <input type="text" name="firstname"><br>
+  Last name:<br>
+  <input type="text" name="lastname">
+  <input type="submit" value="Submit">
+</form>
+
+![alt text](https://github.com/toperkin/staticFormEmails/raw/master/newForm.png "Google Form")
+![alt text](https://github.com/toperkin/staticFormEmails/raw/master/prefilled.png "Pre-filled link")
+
+![alt text](https://github.com/toperkin/staticFormEmails/raw/master/getlink.png "Get link")
+
+```
+https://docs.google.com/forms/d/14lh6MIQOy9j3jWzEl7BysxEe4p9OoU9WN3tytbQjj1I/viewform?entry.810989529=garbageFirstName&entry.463380756=garbageLastName
+```
+```html
+<form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link" target="hidden_iframe" onsubmit="submitted=true;">
   First name:<br>
   <input type="text" name="entry.810989529" id="entry.810989529"><br>
   Last name:<br>
@@ -41,7 +58,8 @@ I don't know what to do with this yet but maybe after September i will upload th
 </form>
 
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
-
+```
+```html
 <script src="assets/js/jquery.min.js"></script>
 <script type="text/javascript">var submitted=false;</script>
 <script type="text/javascript">
@@ -50,3 +68,4 @@ $('#gform').on('submit', function(e) {
   $('#gform').prepend('Your submission has been processed...');
   });
 </script>
+```
