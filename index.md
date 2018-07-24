@@ -4,8 +4,9 @@ I am trying to make it look like a normal site.
 
 ### About me
 I am an 18 years old Hungarian boy who loves IT a programming.
+My passion is karate. I started it about 12 years ago.
 
-### About this site
+### How did this site born?.
 I was **really** bored at the summer of 2018 so I searched on the internet to do some cool stuff.
 I always do that but then I delete the project and forget about it. I thought that this summer should be unique.
 Then i got an idea that I should ask one of my teacher what should I do.
