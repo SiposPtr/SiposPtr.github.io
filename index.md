@@ -1,10 +1,10 @@
 <head>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
   </head>
-## Üdvözöllek
-Az oldal fejlesztés alatt áll!
-ezleszajo
-### Markdown
+## Welcome
+The site is under developement.
+I am trying to make it look like a normal site
+###
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -23,7 +23,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### About me
+I am an 18 years old hungarian boy who loves IT a programming.
+
+### About this site
+I was **really** bored at the summer of 2018 so i decided to make something useful. I always do that but then i delete the project and forget about it. Now it wont be like this
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SiposPtr/siposptr.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
