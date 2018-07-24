@@ -1,25 +1,3 @@
-<link rel="stylesheet" href="https://cdn.rawgit.com/balzss/luxbar/ae5835e2/build/luxbar.min.css">
-
-<div class="luxbar luxbar-static">
-    <input type="checkbox" id="luxbar-checkbox" class="luxbar-checkbox">
-    <div class="luxbar-menu luxbar-menu-right luxbar-menu-dark">
-        <ul class="luxbar-navigation">
-            <li class="luxbar-header">
-                <a class="luxbar-brand" href="#">Brand</a>
-                <label class="luxbar-hamburger luxbar-hamburger-doublespin"
-                        for="luxbar-checkbox"> <span></span> </label>
-            </li>
-            <li class="luxbar-item active"><a href="#">Home</a></li>
-            <li class="luxbar-item dropdown"><a href="#">Editor</a>
-                <ul>
-                    <li class="luxbar-item" ><a href="#">Péter Sipos</a></li>
-                </ul>
-            </li>
-        </ul>
-    </div>
-</div>
-
-
 ## Welcome
 The site is under development.
 I am trying to make it look like a normal site.
