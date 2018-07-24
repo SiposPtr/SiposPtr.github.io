@@ -1,25 +1,7 @@
-<head>
-    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  </head>
 ## Welcome
 The site is under development.
 I am trying to make it look like a normal site
 ###
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 ### About me
 I am an 18 years old hungarian boy who loves IT a programming.
@@ -31,4 +13,4 @@ I don't know what to do with this yet but maybe after September i will upload th
 
 ### Support or Contact
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link"> ezjo?  </a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link"> Click me if you want to help me with your opinion :D  </a>
