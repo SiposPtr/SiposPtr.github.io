@@ -1,7 +1,7 @@
 ## Welcome
 The site is under development.
 I am trying to make it look like a normal site.
-alma
+
 
 ### About me
 I am an 18 years old Hungarian boy who loves IT a programming.
