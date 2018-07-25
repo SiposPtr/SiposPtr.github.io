@@ -4,12 +4,19 @@ I am trying to make it look like a normal site.
 
 
 ### About me
-I am an 18 years old Hungarian boy who loves IT a programming.
+I am an 18 years old Hungarian boy who loves IT and programming.
 I learn IT at school.
+
+### Me & IT
+My father works to an IT company so I was at a very technical environment from my childhood.
+It was obvious for me to choose this as my job&hobby.
+Now in high school I finally can study what i love.
+And this is **really** important.
+
 
 ### My passion
 My passion is karate. I started it about 12 years ago.
-I did Shotokan karate style for several years and i reached the 3rd kyu which means i have a brown belt.
+I did Shotokan karate style for several years and i reached the 3rd kyu which means I have a brown belt.
 I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to get the brown belt. I had to do every single exam from the white belt on the same day.
 
 ### How did this site born?.
@@ -19,8 +26,8 @@ Then I got an idea that I should ask one of my teacher what should I do.
 He offered me to do a webpage with GitHub Pages and I managed to do it.
 
 ### About this site
-I don't really know what will i post or upload to this site.
-Maybe after September I will have some projects about Git Pages so then i will manage the site.
+I don't really know what will I post or upload to this site.
+Maybe after September I will have some projects about Git Pages so then I will manage the site.
 
 ### Support or Contact
 
