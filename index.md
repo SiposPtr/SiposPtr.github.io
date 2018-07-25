@@ -12,10 +12,12 @@ I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to 
 ### How did this site born?.
 I was **really** bored at the summer of 2018 so I searched on the internet to do some cool stuff.
 I always do that but then I delete the project and forget about it. I thought that this summer should be unique.
-Then i got an idea that I should ask one of my teacher what should I do.
+Then I got an idea that I should ask one of my teacher what should I do.
 He offered me to do a webpage with GitHub Pages and I managed to do it.
-I don't know what to do with this yet but maybe after September I will upload things.
 
+### About this site
+I don't really know what will i post or upload to this site.
+Maybe after September I will have some projects about Git Pages so then i will manage the site.
 
 ### Support or Contact
 
