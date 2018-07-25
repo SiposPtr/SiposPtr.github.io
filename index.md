@@ -17,17 +17,19 @@ And this is **really** important.
 ### My passion
 My passion is karate. I started it about 12 years ago.
 I did Shotokan karate style for several years and i reached the 3rd kyu which means I have a brown belt.
-I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to get the brown belt. I had to do every single exam from the white belt on the same day.
+I started Goju-kai two years ago. My coach allowed me to do 11 exams at once to get the brown belt. I had to do every single exam from the white belt on the same day so i'm a bit proud of myself.
 
 ### How did this site born?.
 I was **really** bored at the summer of 2018 so I searched on the internet to do some cool stuff.
 I always do that but then I delete the project and forget about it. I thought that this summer should be unique.
 Then I got an idea that I should ask one of my teacher what should I do.
-He offered me to do a webpage with GitHub Pages and I managed to do it.
+He offered me to do a webpage with GitHub Pages because he was playing with this before.
+I managed to do it.
+And thats it. :D
 
 ### About this site
 I don't really know what will I post or upload to this site.
-Maybe after September I will have some projects about Git Pages so then I will manage the site.
+After September maybe I will have some projects about Git Pages so then I will manage the site.
 
 ### Support or Contact
 
