@@ -5,6 +5,7 @@ I am trying to make it look like a normal site.
 
 ### About me
 I am an 18 years old Hungarian boy who loves IT a programming.
+I learn IT at school.
 
 ### My passion
 My passion is karate. I started it about 12 years ago.
