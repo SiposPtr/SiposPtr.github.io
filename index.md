@@ -13,7 +13,7 @@ It was obvious for me to choose this as my job&hobby.
 Now in high school I finally can study what i love.
 And this is **really** important.
 I love playing with the IOS software.
-I sometimes i do some programming. I built several applications just for my own happiness but none of them were a big thing.
+I sometimes I do some programming. I built several applications just for my own happiness but none of them were a big thing.
 The other part of IOS software that I love is the hacking.
 It's too difficult for me but sometimes I play with it.
 
