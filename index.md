@@ -1,5 +1,5 @@
 ## Welcome
-The site is under development. <img src="https://pbs.twimg.com/profile_images/653700295395016708/WjGTnKGQ_400x400.png">
+The site is under development.
 I am trying to make it look like a normal site.
 
 
