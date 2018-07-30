@@ -39,5 +39,16 @@ After September maybe I will have some projects about Git Pages so then I will m
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link"> :handshake: Click me if you want to help me with your opinion :D :handshake: </a>
 
-
-<a href="events.html" data-i18n="menu-events">Events</a>
+<header>
+      <div class="container">
+        <div class="full">
+          <p class="subtitle" data-i18n="index-header-top">Open source workshops that teach web software skills. Do them on your own or at a workshop nearby.</p>
+          <nav role="navigation">
+            <ul class="nav">
+              <li><a href="events.html" data-i18n="menu-events">Events</a></li>
+            </ul>
+          </nav>
+          <p><span data-i18n="index-header-bottom">Get started by installing one of our</span> <a data-i18n="index-header-bottomA" class="big-link" href="#workshopper-list">core workshops</a>.</p>
+        </div>
+      </div>
+    </header>
