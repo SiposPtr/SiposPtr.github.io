@@ -12,7 +12,7 @@
 </header>
 <br>
 <div class="topnav" id="myTopnav">
-  <a href="#aboutme.html" class="active">About me</a>
+  <a href="#aboutme.html">About me</a>
   <a href="#me&it.html">Me&IT</a>
   <a href="#mypassion.html">My passion</a>
   <a href="#siteborn.html">Birth of site</a>
