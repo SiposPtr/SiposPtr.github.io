@@ -1,2 +1,3 @@
 theme: jekyll-theme-merlot
 gems: ["jemoji"]
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/luxbar/0.2.0/luxbar.min.css">
