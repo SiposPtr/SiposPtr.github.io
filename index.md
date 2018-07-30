@@ -14,7 +14,7 @@
 <div class="topnav" id="myTopnav">
   <a href="#index.css" class="active">About me</a>
   <a href="#index.css">Me&IT</a>
-  <a href="#index.css">Ma passion</a>
+  <a href="#index.css">My passion</a>
   <a href="#index.css">How did this site born</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
