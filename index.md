@@ -2,7 +2,7 @@
     <div className="luxbar-menu luxbar-menu-right luxbar-menu-material-cyan">
         <ul className="luxbar-navigation">
             <li className="luxbar-header">
-                <h1> Menü </h1>
+                <a href="#" classN="luxbar-brand">Menü</a>
                 <label className="luxbar-hamburger luxbar-hamburger-doublespin"
                 id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
             </li>
