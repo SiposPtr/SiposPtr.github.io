@@ -85,7 +85,7 @@ li.dropdown {
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <br>
-## Welcome
+<h1> Welcome </h1>
 <br>
 The site is under development.
 I am trying to make it look like a normal site, but it will take a lot of time.
