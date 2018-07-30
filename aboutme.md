@@ -1,3 +1,3 @@
-### About me
+About me
 I am an 18 years old Hungarian boy who loves IT and programming.
 I learn IT at school.
