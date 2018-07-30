@@ -15,7 +15,7 @@
   <a href="#aboutme.html" class="active">About me</a>
   <a href="#me&it.html">Me&IT</a>
   <a href="#mypassion.html">My passion</a>
-  <a href="#siteborn.html">How did this site born</a>
+  <a href="#siteborn.html">Birth of site</a>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
