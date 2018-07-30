@@ -6,12 +6,38 @@
                 <label className="luxbar-hamburger luxbar-hamburger-doublespin"
                 id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
             </li>
-            <li class="luxbar-item"><a href="aboutme.html">About me</a></li>
-            <li class="luxbar-item"><a href="me&it.html">Me & IT</a></li>
-            <li class="luxbar-item"><a href="mypassion.html">My passion</a></li>
-            <li class="luxbar-item"><a href="siteborn.html">How did this site born?.</a></li>
-            <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
-            <li class="luxbar-item"><a href="aboutsite.html">About this site</a></li>
+            <table>
+              <tr>
+                <td>
+                  <li class="luxbar-item"><a href="aboutme.html">About me</a></li>
+                </td>
+              </tr>
+              <tr>
+                <td>  
+                  <li class="luxbar-item"><a href="me&it.html">Me & IT</a></li>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <li class="luxbar-item"><a href="mypassion.html">My passion</a></li>
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <li class="luxbar-item"><a href="siteborn.html">How did this site born?.</a></li>
+                </td>
+              </tr>
+              <tr>
+                <td>
+              <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
+                </td>
+              </tr>
+              <tr>
+                <td>
+              <li class="luxbar-item"><a href="aboutsite.html">About this site</a></li>
+                </td>
+              </tr>
+            </table>  
         </ul>
     </div>
 </header>
