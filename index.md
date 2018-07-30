@@ -14,7 +14,7 @@
         </ul>
     </div>
 </header>
-
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 ## Welcome
 The site is under development.
 I am trying to make it look like a normal site, but it will take a lot of time.
