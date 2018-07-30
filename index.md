@@ -12,16 +12,6 @@
 </header>
 <br>
 
-<a href="aboutme.html">About me</a>
-<a href="me&it.html">Me&IT</a>
-<a href="mypassion.html">My passion</a>
-<a href="siteborn.html">Birth of site</a>
-
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-## Welcome
-The site is under development.
-I am trying to make it look like a normal site, but it will take a lot of time.
-
 <style>
 ul {
     list-style-type: none;
@@ -89,3 +79,13 @@ li.dropdown {
     </div>
   </li>
 </ul>
+
+<a href="aboutme.html">About me</a>
+<a href="me&it.html">Me&IT</a>
+<a href="mypassion.html">My passion</a>
+<a href="siteborn.html">Birth of site</a>
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+## Welcome
+The site is under development.
+I am trying to make it look like a normal site, but it will take a lot of time.
