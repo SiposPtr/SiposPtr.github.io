@@ -9,7 +9,6 @@
             <li class="luxbar-item"><a href="aboutme.html">About me</a></li>
             <li class="luxbar-item"><a href="me&it.html">Me & IT</a></li>
             <li class="luxbar-item"><a href="mypassion.html">My passion</a></li>
-<<<<<<< HEAD
             <li class="luxbar-item"><a href="siteborn.html">How did this site born?.</a></li>
               <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
         </ul>
