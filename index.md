@@ -6,7 +6,7 @@
                 <label className="luxbar-hamburger luxbar-hamburger-doublespin"
                 id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
             </li>
-            <li class="luxbar-item"><a href="aboutme.html">About me</a></li>
+            <li class="luxbar-item"><a href="aboutme.md">About me</a></li>
             <li class="luxbar-item"><a href="#">Item 2</a></li>
             <li class="luxbar-item"><a href="#">Item 3</a></li>
             <li class="luxbar-item"><a href="#">Item 4</a></li>
