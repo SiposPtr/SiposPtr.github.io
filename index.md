@@ -38,3 +38,6 @@ After September maybe I will have some projects about Git Pages so then I will m
 ### Support or Contact
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXosTNwp8hyeKXk-i_dFkFwB7tjvc7AHUdtMMneaBUecxBSg/viewform?usp=sf_link"> :handshake: Click me if you want to help me with your opinion :D :handshake: </a>
+
+
+<a href="events.html" data-i18n="menu-events">Events</a>
