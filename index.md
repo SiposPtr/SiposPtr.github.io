@@ -10,7 +10,7 @@
         </ul>
     </div>
 </header>
-
+<br>
 <div class="topnav" id="myTopnav">
   <a href="#index.css" class="active">About me</a>
   <a href="#index.css">News</a>
