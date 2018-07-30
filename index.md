@@ -83,9 +83,9 @@ li.dropdown {
   </li>
 </ul>
 
-
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+<br>
 ## Welcome
 <br>
 The site is under development.
