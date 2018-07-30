@@ -10,7 +10,7 @@
             <li class="luxbar-item"><a href="me&it.md">Me & IT</a></li>
             <li class="luxbar-item"><a href="mypassion.md">My passion</a></li>
             <li class="luxbar-item"><a href="siteborn.md">How did this site born?.</a></li>
-              <li class="luxbar-item"><a href="support.md">Support or Contact</a></li>
+              <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
         </ul>
     </div>
 </header>
