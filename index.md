@@ -6,7 +6,7 @@
                 <label className="luxbar-hamburger luxbar-hamburger-doublespin"
                 id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
             </li>
-            <li class="luxbar-item"><a href="#">Item 1</a></li>
+            <li class="luxbar-item"><a href="aboutme.html">About me</a></li>
             <li class="luxbar-item"><a href="#">Item 2</a></li>
             <li class="luxbar-item"><a href="#">Item 3</a></li>
             <li class="luxbar-item"><a href="#">Item 4</a></li>
@@ -19,9 +19,6 @@ The site is under development.
 I am trying to make it look like a normal site, but it will take a lot of time.
 
 
-### About me
-I am an 18 years old Hungarian boy who loves IT and programming.
-I learn IT at school.
 
 ### Me & IT
 My father works to an IT company so I was at a very technical environment from my childhood.
