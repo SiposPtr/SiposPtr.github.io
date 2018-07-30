@@ -11,6 +11,7 @@
             <li class="luxbar-item"><a href="mypassion.html">My passion</a></li>
             <li class="luxbar-item"><a href="siteborn.html">How did this site born?.</a></li>
             <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
+            <li class="luxbar-item"><a href="aboutsite.html">About this site</a></li>
         </ul>
     </div>
 </header>
