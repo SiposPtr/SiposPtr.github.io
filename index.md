@@ -21,18 +21,3 @@ I am trying to make it look like a normal site, but it will take a lot of time.
 ### About this site
 I don't really know what will I post or upload to this site.
 After September maybe I will have some projects about Git Pages so then I will manage the site.
-=======
-            <li class="luxbar-item"><a href="siteborn.html">How did this site born?.</a></li>
-              <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
-        </ul>
-    </div>
-</header>
-
-## Welcome
-The site is under development.
-I am trying to make it look like a normal site, but it will take a lot of time.
-
-### About this site
-I don't really know what will I post or upload to this site.
-After September maybe I will have some projects about Git Pages so then I will manage the site.
->>>>>>> 1fb35cbd5deff9d2d2806dcb167a94ede39563a4
