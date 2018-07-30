@@ -1,10 +1,9 @@
 <header id="luxbar" classNameN="luxbar-fixed">
-    <input type="checkbox" id="luxbar-checkbox"/>
     <div className="luxbar-menu luxbar-menu-right luxbar-menu-material-cyan">
         <ul className="luxbar-navigation">
             <li className="luxbar-header">
                 <a href="#" classN="luxbar-brand">LUXBAR</a>
-                <label className="luxbar-hamburger luxbar-hamburger-doublespin" 
+                <label className="luxbar-hamburger luxbar-hamburger-doublespin"
                 id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
             </li>
             <li class="luxbar-item"><a href="#">Item 1</a></li>
