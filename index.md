@@ -68,7 +68,6 @@ li.dropdown {
 <body>
 
 <ul>
-  <li><a href="home">Home</a></li>
   <li><a href="aboutme.html">About me</a></li>
   <li><a href="me&it.html">Me&IT</a></li>
   <li><a href="mypassion.html">My passion</a></li>
