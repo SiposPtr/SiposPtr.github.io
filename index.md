@@ -14,6 +14,7 @@
         </ul>
     </div>
 </header>
+<title> Péter Sipos's site </title>
 
 ## Welcome
 The site is under development.
