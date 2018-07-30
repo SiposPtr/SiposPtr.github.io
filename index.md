@@ -12,10 +12,10 @@
 </header>
 <br>
 
-<a href="#aboutme.html">About me</a>
-<a href="#me&it.html">Me&IT</a>
-<a href="#mypassion.html">My passion</a>
-<a href="#siteborn.html">Birth of site</a>
+<a href="aboutme.html">About me</a>
+<a href="me&it.html">Me&IT</a>
+<a href="mypassion.html">My passion</a>
+<a href="siteborn.html">Birth of site</a>
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 ## Welcome
