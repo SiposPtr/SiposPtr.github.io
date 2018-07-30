@@ -1,3 +1,20 @@
+<header id="luxbar" classNameN="luxbar-fixed">
+    <input type="checkbox" id="luxbar-checkbox"/>
+    <div className="luxbar-menu luxbar-menu-right luxbar-menu-material-cyan">
+        <ul className="luxbar-navigation">
+            <li className="luxbar-header">
+                <a href="#" classN="luxbar-brand">LUXBAR</a>
+                <label className="luxbar-hamburger luxbar-hamburger-doublespin" 
+                id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
+            </li>
+            <li class="luxbar-item"><a href="#">Item 1</a></li>
+            <li class="luxbar-item"><a href="#">Item 2</a></li>
+            <li class="luxbar-item"><a href="#">Item 3</a></li>
+            <li class="luxbar-item"><a href="#">Item 4</a></li>
+        </ul>
+    </div>
+</header>
+
 ## Welcome
 The site is under development.
 I am trying to make it look like a normal site, but it will take a lot of time.
