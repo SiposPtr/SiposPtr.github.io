@@ -11,15 +11,11 @@
     </div>
 </header>
 <br>
-<div class="topnav" id="myTopnav">
-  <a href="#aboutme.html">About me</a>
-  <a href="#me&it.html">Me&IT</a>
-  <a href="#mypassion.html">My passion</a>
-  <a href="#siteborn.html">Birth of site</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
+
+<a href="#aboutme.html">About me</a>
+<a href="#me&it.html">Me&IT</a>
+<a href="#mypassion.html">My passion</a>
+<a href="#siteborn.html">Birth of site</a>
 
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 ## Welcome
