@@ -71,7 +71,7 @@ li.dropdown {
   <li><a href="#home">Home</a></li>
   <li><a href="#aboutme.html">About me</a></li>
   <li><a href="me&it.html">Me&IT</a></li>
-  <li><a href="#mypassion.html">About me</a></li>
+  <li><a href="#mypassion.html">My passion</a></li>
   <li><a href="siteborn.html">Birth of site</a></li>
   <li class="dropdown">
     <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
