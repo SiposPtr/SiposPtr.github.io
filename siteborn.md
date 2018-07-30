@@ -1,0 +1,7 @@
+How did this site born?.
+I was **really** bored at the summer of 2018 so I searched on the internet to do some cool stuff.
+I always do that but then I delete the project and forget about it. I thought that this summer should be unique.
+Then I got an idea that I should ask one of my teacher what should I do.
+He offered me to do a webpage with GitHub Pages because he was playing with this before.
+I managed to do it.
+And thats it. :D
