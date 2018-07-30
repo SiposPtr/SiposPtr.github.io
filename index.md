@@ -7,9 +7,9 @@
                 id="luxbar-hamburger" for="luxbar-checkbox"> <span></span> </label>
             </li>
             <li class="luxbar-item"><a href="aboutme.md">About me</a></li>
-            <li class="luxbar-item"><a href="#">Item 2</a></li>
-            <li class="luxbar-item"><a href="#">Item 3</a></li>
-            <li class="luxbar-item"><a href="#">Item 4</a></li>
+            <li class="luxbar-item"><a href="#">Me & IT</a></li>
+            <li class="luxbar-item"><a href="#">My passion</a></li>
+            <li class="luxbar-item"><a href="#">How did this site born?.</a></li>
         </ul>
     </div>
 </header>
