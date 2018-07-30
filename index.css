@@ -1,3 +1,7 @@
+body{
+  background-color: #e9e0d3;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
