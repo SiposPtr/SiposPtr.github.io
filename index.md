@@ -10,7 +10,7 @@
             <li class="luxbar-item"><a href="me&it.html">Me & IT</a></li>
             <li class="luxbar-item"><a href="mypassion.html">My passion</a></li>
             <li class="luxbar-item"><a href="siteborn.html">How did this site born?.</a></li>
-              <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
+            <li class="luxbar-item"><a href="support.html">Support or Contact</a></li>
         </ul>
     </div>
 </header>
@@ -18,7 +18,3 @@
 ## Welcome
 The site is under development.
 I am trying to make it look like a normal site, but it will take a lot of time.
-
-## About this site
-I don't really know what will I post or upload to this site.
-After September maybe I will have some projects about Git Pages so then I will manage the site.
