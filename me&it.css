@@ -1,8 +1,8 @@
 body{
   background-color: #e9e0d3;
-  font-family: monospace;
 }
 
+<<<<<<< HEAD
 ul {
     list-style-type: none;
     margin: 0;
@@ -58,6 +58,8 @@ body {
   font-family: monospace;
 }
 
+=======
+>>>>>>> parent of 0ab9d4b... css config
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
