@@ -1,6 +1,9 @@
 body{
   background-color: #e9e0d3;
+  font-family: monospace;
 }
+
+
 
 /* Add a black background color to the top navigation */
 .topnav {
