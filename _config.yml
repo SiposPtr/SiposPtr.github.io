@@ -1,4 +1,4 @@
-theme: jekyll-theme-merlot
+theme: jekyll-theme-midnight
 gems: ["jemoji"]
 font:
   version: "2.0.2"
