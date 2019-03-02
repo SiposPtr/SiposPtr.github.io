@@ -69,7 +69,23 @@
                     <div class="h4 mt-0 title">Basic Information</div>
                       <div class="row">
                         <div class="col-sm-4"><strong class="text-uppercase">Age:</strong></div>
-                          <div class="col-sm-8">18</div>
+                          <div class="col-sm-8">
+                            <script>
+                            function getAge(DOB) {
+                              var today = new Date();
+                              var birthDate = new Date(DOB);
+                              var age = today.getFullYear() - birthDate.getFullYear();
+                              var m = today.getMonth() - birthDate.getMonth();
+                              if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+                                age = age - 1;
+                              }
+
+                              return age;
+                            }
+
+                            document.write(getAge("11/01/1999"));
+                            </script>
+                          </div>
                       </div>
                       <div class="row mt-3">
                         <div class="col-sm-4"><strong class="text-uppercase">Email:</strong></div>
