@@ -1,3 +1,3 @@
 # siposptr.github.io
 
-My personal website
+My portfolio website
