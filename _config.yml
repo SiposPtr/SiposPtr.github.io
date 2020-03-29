@@ -6,7 +6,7 @@ favicon: images/favicon.ico
 name: Péter Sipos
 title: Swift Developer/Student
 email: sipos.peter@sysconet.hu
-website: www.github.com/sproogen/resume-theme
+website: https://siposptr.github.io
 
 # Social links
 github_username:  SiposPtr
@@ -17,8 +17,7 @@ instagram_username: siposptr99
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Péter and I'm a High School Student from Hungary. I don't have any kind of work experience unfortunately.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I love learning languages.
 
 # Projects Section
 # projects_title: Projects
