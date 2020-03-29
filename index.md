@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+- [Sept 20th 2019 - Kikucare's Journey](./blog/20190920-post1.md)
