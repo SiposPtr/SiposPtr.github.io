@@ -1,6 +1,6 @@
 - layout: left
   name: BMSzC Bilingual Technical School of Újpest
-  qualification: Computer Science and Electronics
+  qualification: Computer Science and Electronics [Link]({{ '/path/to/page/' | relative_url }})
   description: | # this will include new lines to allow paragraphs
     I studied two year of Electronics where i learn the basics of the circuits.
     Then switched to IT class.
